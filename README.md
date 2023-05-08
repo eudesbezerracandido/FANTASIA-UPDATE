@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MUNDO EM CAOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CWG63DMNOGMDW4TGEKRY2TCMZQM3Q7FG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oMSumadgRiygK1DUtBurdnZb9Jz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Mundo em Caos, em um futuro pós-apocalíptico onde a humanidade já começou a colonizar outros planetas, uma infecção rara e perigosa tomou conta do planeta e causou o inimaginável: todas as mulheres foram mortas, e agora os pensamentos de todos os homens tornaram-se audíveis. O jovem Todd, temendo a destruição total, decide partir fugindo de sua cidade e, durante sua jornada, conheça pela primeira vez na vida uma mulher.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( Linguagem ESPANHOU )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/cz_20230502/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Saint%20Seiya-%20O%20Come%C3%A7o.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/omPLRVEydDJdkXoBw87PWQ3heCY.jpg</thumbnail>
