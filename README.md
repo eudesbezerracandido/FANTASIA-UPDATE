@@ -1,7 +1,13 @@
 # FANTASIA-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] MEDUSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70889107150161afc2ddf080635419625da15e76</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7tcxxE97FOpGMHLvG77uk2lF1pm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Medusa, uma gangue de mulheres fazem o melhor que podem para controlar tudo ao seu redor - até mesmo outras mulheres - para resistir à tentação. Mas o dia chegará onde a vontade será maior do que tudo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MUNDO EM CAOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
