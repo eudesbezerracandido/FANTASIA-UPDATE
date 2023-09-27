@@ -1,6 +1,17 @@
 # FANTASIA-UPDATE
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] MINA LISA E A LUA DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N7ZLKZEP6Y2W5Z3OGAMMRQGJWGA7TYUK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jnszI3HhHQEs5VOprDaQU0j670J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma garota com habilidades estranhas e perigosas escapa de um asilo mental e se junta ao caos da civilização moderna, nas ruas hedonistas do French Quarter.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MEDUSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70889107150161afc2ddf080635419625da15e76</link>
