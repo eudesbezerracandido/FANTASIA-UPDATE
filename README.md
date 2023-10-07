@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ERA UMA VEZ UM GÊNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CSIPWMIFJYZVSESSJ6B5CRJUG4EL2OVD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w1zL4hVb4Ngg02VVxllBDT048Nn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma estudiosa solitária viaja para Istambul e descobre um Djinn que lhe oferece três desejos em troca de sua liberdade.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MINA LISA E A LUA DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
