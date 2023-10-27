@@ -2,6 +2,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] PEQUENOS MÁGICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fb773f6dcf4e35474eb4b9446ce671d7ac7fa9d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1iB5W30WIGuKRWuPA8dmnN0ChWH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Artyom é um garoto de 13 anos que descobre uma caixa de fósforos capaz de realizar qualquer desejo. Junto de uma misteriosa garota, ele irá explorar todas as possibilidades de seus novos poderes, mas descobrirá que toda magia tem um preço.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ERA UMA VEZ UM GÊNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CSIPWMIFJYZVSESSJ6B5CRJUG4EL2OVD</link>
