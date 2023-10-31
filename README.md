@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A FLAUTA MÁGICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be23304b3a8313a798b371d1d25771087be9e029</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5cSgFlXAMTv8M1jbfkJ25lqaLC1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A Flauta Mágica Torrent – O aspirante a cantor Tim sonhou a vida toda em frequentar o Internato Mozart só para meninos. Ele fica muito animado quando finalmente é admitido, mas seus primeiros dias nessa escola de prestígio não saem como o esperado. Enfrentando um diretor hostil, o estresse do primeiro amor, Tim fica encantado ao descobrir um segredo maravilhoso no antigo prédio da escola – um portal para um mundo paralelo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PEQUENOS MÁGICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
