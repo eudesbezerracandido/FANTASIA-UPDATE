@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] SUBSTÂNCIA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8403196e50d0a48d86f44baa2c1ce7e07e686153</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/sCJawTQpsgQDMkJxaCn92X01gWZ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A proliferação de um fungo mortal faz com que um homem recluso e um adolescente sejam obrigados a morarem juntos em uma casa no meio da floresta.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A FLAUTA MÁGICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be23304b3a8313a798b371d1d25771087be9e029</link>
